@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2582-pass-the-pillow](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2582-pass-the-pillow) |
 ## Simulation
 |  |
 | ------- |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2582-pass-the-pillow](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2582-pass-the-pillow) |
 ## String
 |  |
