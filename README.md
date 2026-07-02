@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Greedy
 |  |
 | ------- |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2582-pass-the-pillow](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2582-pass-the-pillow) |
+## String
+|  |
+| ------- |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+## Counting
+|  |
+| ------- |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 <!---LeetCode Topics End-->
