@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0804-unique-morse-code-words) |
 | [1108-defanging-an-ip-address](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/1108-defanging-an-ip-address) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Counting
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0804-unique-morse-code-words) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Enumeration
 |  |
 | ------- |
