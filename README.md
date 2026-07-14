@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0883-projection-area-of-3d-shapes) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2427-number-of-common-factors](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2582-pass-the-pillow](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2582-pass-the-pillow) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/1291-sequential-digits) |
+| [2427-number-of-common-factors](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2427-number-of-common-factors) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Bit Manipulation
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2427-number-of-common-factors) |
 | [3115-maximum-prime-difference](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/3115-maximum-prime-difference) |
 ## Bucket Sort
 |  |
