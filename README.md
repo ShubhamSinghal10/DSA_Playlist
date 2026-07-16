@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3115-maximum-prime-difference](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/3115-maximum-prime-difference) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0164-maximum-gap) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -34,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2443-sum-of-number-and-its-reverse](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2582-pass-the-pillow](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2582-pass-the-pillow) |
 | [3115-maximum-prime-difference](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/3115-maximum-prime-difference) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2582-pass-the-pillow](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2582-pass-the-pillow) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -83,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2427-number-of-common-factors](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2427-number-of-common-factors) |
 | [3115-maximum-prime-difference](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/3115-maximum-prime-difference) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -95,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2428-maximum-sum-of-an-hourglass) |
+## Two Pointers
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
