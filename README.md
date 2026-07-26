@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0804-unique-morse-code-words) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0883-projection-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0896-monotonic-array) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -19,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Sorting
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0164-maximum-gap) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
