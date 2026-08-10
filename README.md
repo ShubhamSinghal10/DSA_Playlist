@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0883-projection-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0941-valid-mountain-array) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2428-maximum-sum-of-an-hourglass) |
