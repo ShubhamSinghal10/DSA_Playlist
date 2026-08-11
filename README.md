@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0461-hamming-distance](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0461-hamming-distance) |
+| [0476-number-complement](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0476-number-complement) |
 ## Geometry
 |  |
 | ------- |
