@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3115-maximum-prime-difference](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/3115-maximum-prime-difference) |
+| [3169-count-days-without-meetings](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/3169-count-days-without-meetings) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3169-count-days-without-meetings](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/3169-count-days-without-meetings) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
