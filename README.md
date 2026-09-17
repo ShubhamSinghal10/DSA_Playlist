@@ -121,4 +121,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0176-second-highest-salary) |
+| [1045-customers-who-bought-all-products](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/1045-customers-who-bought-all-products) |
 <!---LeetCode Topics End-->
