@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0164-maximum-gap](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0164-maximum-gap) |
 | [0804-unique-morse-code-words](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0804-unique-morse-code-words) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0883-projection-area-of-3d-shapes) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0176-second-highest-salary) |
 | [1045-customers-who-bought-all-products](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/1045-customers-who-bought-all-products) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
