@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0164-maximum-gap](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0229-majority-element-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0151-reverse-words-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
@@ -132,9 +134,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0229-majority-element-ii) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
