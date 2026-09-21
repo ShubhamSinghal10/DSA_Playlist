@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0164-maximum-gap](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0229-majority-element-ii) |
+| [0435-non-overlapping-intervals](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0435-non-overlapping-intervals) |
 | [0804-unique-morse-code-words](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0804-unique-morse-code-words) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0883-projection-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0896-monotonic-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0435-non-overlapping-intervals) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0229-majority-element-ii) |
+| [0435-non-overlapping-intervals](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0435-non-overlapping-intervals) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/ShubhamSinghal10/DSA_Playlist/tree/master/0435-non-overlapping-intervals) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
